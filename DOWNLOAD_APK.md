@@ -1,9 +1,9 @@
 # تحميل التطبيق
 
-بعد رفع المشروع على GitHub ونجاح GitHub Actions، سيكون رابط التحميل بالشكل التالي:
+رابط APK المباشر:
 
-`https://github.com/USERNAME/REPO/raw/main/apk/personal-expenses.apk`
+https://github.com/aljwaal1/expenses_charts_ar/raw/main/apk/personal-expenses.apk
 
-مسار APK:
+مسار الملف داخل المستودع:
 
 `apk/personal-expenses.apk`
