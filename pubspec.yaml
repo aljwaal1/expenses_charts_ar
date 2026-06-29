@@ -1,7 +1,7 @@
 name: expenses_charts_ar
-description: Personal expenses - Flutter Android direct APK
+description: personal expenses Android APK direct
 publish_to: 'none'
-version: 2.0.0+2
+version: 4.0.0+4
 
 environment:
   sdk: '>=3.4.0 <4.0.0'
